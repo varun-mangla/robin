@@ -23,15 +23,23 @@ tl.from("h2",{
     stagger:0.4,
 })
 
+
+
 tl.from("#img2",{
     x:100,
     rotate:45,
     opacity:0,
-    duration:1.5
+    duration:1.2,
 })
 tl.from("#img3",{
     x:100,
     rotate:45,
     opacity:0,
-    duration:1.5,
+    duration:1.2,
+})
+tl.from("#img4",{
+    x:100,
+    rotate:45,
+    opacity:0,
+    duration:1.2,
 })

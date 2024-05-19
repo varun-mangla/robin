@@ -87,14 +87,22 @@ h2{
 #img2{
     height: 350px;
     position: absolute;
-    top:50%;
+    top:20%;
     right: 10%;
 }
 
 #img3{
     height: 350px;
     position: absolute;
-    top: 40%;
+    rotate: 8deg;
+    top: 30%;
     right: 10%;
 }
 
+#img4{
+    height: 350px;
+    position: absolute;
+    top:40%;
+    rotate: -8deg;
+    right: 10%;
+}
