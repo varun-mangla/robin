@@ -23,8 +23,6 @@ tl.from("h2",{
     stagger:0.4,
 })
 
-
-
 tl.from("#img2",{
     x:100,
     rotate:45,
